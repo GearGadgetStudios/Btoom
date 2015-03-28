@@ -1,4 +1,4 @@
-# Btoom test for drak
+# Btoom test for both
 Btoom Fan Game in Unreal Engine 4, this was made with some starter assets in the beginning. Don't expect much yet.
 
 ToDo
